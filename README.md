@@ -1,2 +1,2 @@
 # CTF Writeups
-Writeups and solutions from CTF competitions and wargames.
+CTF challenge writeups from a 13-week offensive security study plan.
